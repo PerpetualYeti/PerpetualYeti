@@ -2,7 +2,6 @@
 ##### 🤔 I’m currently learning:
 - Python
 - Scikit-learn
-- C#
 ##### ❗ I’m interested in: 
 - Data Science/ML
 
