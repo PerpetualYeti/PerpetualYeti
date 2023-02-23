@@ -1,9 +1,11 @@
 ### Hello, I’m @PerpetualYeti (Ali Megahed)  
 ##### 🤔 I’m currently learning:
 - Python
-- Scikit-learn
+- VirutalBox
+- Linux Kernel Modules
 ##### ❗ I’m interested in: 
-- Data Science/ML
+- Computer Hardware
+- Computer Networking Concepts
 
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
