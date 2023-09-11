@@ -1,8 +1,8 @@
 ### Hello, I’m @PerpetualYeti (Ali Megahed)  
 ##### 🤔 I’m currently learning:
-- Python
-- VirutalBox
-- Linux Kernel Modules
+- Embedded Systems
+- ESP32
+- Databases and API in LAMP Stack
 ##### ❗ I’m interested in: 
 - Computer Hardware
 - Computer Networking Concepts
