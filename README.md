@@ -2,7 +2,7 @@
 ##### 🤔 I’m currently learning:
 - Embedded Systems
 - ESP32
-- Databases and API in LAMP Stack
+- Databases and API in MERN Stack
 ##### ❗ I’m interested in: 
 - Computer Hardware
 - Computer Networking Concepts
