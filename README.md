@@ -3,6 +3,7 @@
 - Embedded Systems
 - ESP32
 - Databases and API in MERN Stack
+- Git
 ##### ❗ I’m interested in: 
 - Computer Hardware
 - Computer Networking Concepts
