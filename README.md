@@ -1,4 +1,4 @@
-### Hello, I’m @PerpetualYeti (Ali Megahed)  
+### Hello, I’m @PerpetualYeti (Aly Megahed)  
 ##### 🤔 I’m currently learning:
 - Embedded Systems
 - ESP32
